@@ -10,7 +10,7 @@ function signUp(e) {
     return;
   }else{
     alert("Sign up successful");
-    window.location.href = "/project/signInPage/index.html";
+    window.location.href = "/project/index.html";
 
   }
 
